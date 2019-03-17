@@ -1,7 +1,6 @@
 
 
-![houmanhadian.github.io](./uolag.jpg?raw=true "UNIVERSITY OF ALGARVE")
-
+![houmanhadian.github.io](./hhadianproject.jpg?raw=true "Houman Hadian's Doctoral Project")
 **`houmanhadian.github.io:` Houman Hadian's Doctoral Project Home Repository**
 
 **`Description:`**
@@ -16,4 +15,3 @@ I would be glad to announce it here. This includes any review or refference proc
 
 [houman-project repository on Github](https://github.com/emg110/houman-project/)
 
-![houmanhadian.github.io](./hhadianproject.jpg?raw=true "Houman Hadian's Doctoral Project")
