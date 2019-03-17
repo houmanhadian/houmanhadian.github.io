@@ -2,7 +2,7 @@
 
 ![houmanhadian.github.io](./uolag.jpg?raw=true "UNIVERSITY OF ALGARVE")
 
-**`houmanhadian.github.io:` Houman Hadian's Doctoral Project Home | Repository**
+**`houmanhadian.github.io:` Houman Hadian's Doctoral Project Home Repository**
 
 **`Description:`**
 **This is the main repository of Houman Hadian's research for PhD candidacy**
