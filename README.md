@@ -13,5 +13,7 @@ I would be glad to announce it here. This includes any review or refference proc
 
 **`Codebase:` Research tool application**
 
-[houman-project repository on Github](https://github.com/emg110/houman-project/)
+Thanks to my friend Mohammad Ghiasi for collaboration on tool development dedicated to this research.
+
+[houman-project repository on Github](https://github.com/houmanhadian/houman-project/)
 
