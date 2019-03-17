@@ -13,6 +13,7 @@ I would be glad to announce it here. This includes any review or refference proc
 
 
 **`Codebase:` Research tool application**
-_https://github.com/emg110/houman-project/_
+
+[houman-project repository on Github](https://github.com/emg110/houman-project/)
 
 ![houmanhadian.github.io](./hhadianproject.jpg?raw=true "Houman Hadian's Doctoral Project")
